@@ -3,7 +3,7 @@ Bootstrap template for laravel with boilerplate
 
 ## Installation
 
-- Copy this `bootstrap` folder to your `resources/views/layouts`. Your resources directory will look like this:
+- Copy the `bootstrap` folder to `resources/views/layouts`. Your resources directory will look like this:
 
 ![image](tree-resources.png)
 
