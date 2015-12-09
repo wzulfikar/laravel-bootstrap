@@ -1,0 +1,8 @@
+{
+    "name": "wzulfikar/laravel-bootstrap",
+    "autoload": {
+        "psr-4": {
+            "Wzulfikar\\LaravelBootstrap\\": "src/"
+        }
+    }
+}

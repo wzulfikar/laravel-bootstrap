@@ -13,6 +13,7 @@
 
   <div class="container">
 
+    {{-- Display Validation Errors --}}
     @if($errors->count() > 0)
       @include('layouts.bootstrap.partials.errors',['errors'=>$errors->all()])
     @endif
